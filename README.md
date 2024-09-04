@@ -2,17 +2,6 @@
 
 This repository contains the solutions for Task 02 of my internship at DREVOL. The task involves creating an SQL Order table, writing C#/.NET or Python code to display all orders, and using a predictive model for sales forecasting and customer behavior analysis.
 
-## Table of Contents
-
-- [Task Overview](#task-overview)
-- [Requirements](#requirements)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Prediction Model](#prediction-model)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Task Overview
 
 Task 02 is divided into three parts:
